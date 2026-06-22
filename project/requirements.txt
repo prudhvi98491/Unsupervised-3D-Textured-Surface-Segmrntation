@@ -1,0 +1,11 @@
+torch>=2.0.0
+torch-geometric
+open3d
+trimesh
+numpy
+scikit-learn
+matplotlib
+tqdm
+gradio
+networkx
+scipy
